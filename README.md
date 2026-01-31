@@ -2,14 +2,55 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Sandruez&show_icons=true&theme=radical" width="48%"/>
 
-* [cite_start]🎓 I am a **B.Tech Student** at **National Institute of Technology, Patna** (2021-2025)[cite: 11, 35, 36].
-* [cite_start]🚀 Currently working as an **AI/ML Intern** at **Labmenix Pvt Ltd**.
-* [cite_start]💻 Interested in **Machine Learning**, **Data Science**, and **Full-Stack Development**[cite: 10, 14, 15].
-* 🛠️ Strong foundation in **C++, Data Structures, and Algorithms**.
-* [cite_start]📫 Feel free to reach me out at: [![Email](https://img.shields.io/badge/Email-cp497256%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:cp497256@gmail.com) [cite: 2]
-* [cite_start]📄 Check out my [LinkedIn Profile](https://www.linkedin.com/in/chandraprakash-kahar)[cite: 3, 4].
+* [cite_start]🏫 I am a **B.Tech Student** at **National Institute of Technology, Patna** (2021-2025)[cite: 11, 35, 36].
+* [cite_start]🏆 **AI/ML Intern** at **Labmenix Pvt Ltd**, building scalable data-driven solutions[cite: 10, 15, 33].
+* [cite_start]🧑‍💻 Currently working on **Deep Learning (CNNs)** & **Full-Stack Development (Django/MEAN)**[cite: 10, 15, 17, 19].
+* [cite_start]💥 You can visit my **[LinkedIn](https://www.linkedin.com/in/chandraprakash-kahar)** to see my professional journey[cite: 3, 4].
+* [cite_start]📧 Feel free to reach me out at: **[cp497256@gmail.com](mailto:cp497256@gmail.com)**[cite: 2].
+* [cite_start]🤓 Always believe **"Turning data into insights and ideas into interactive reality."**[cite: 15].
 
 ---
+
+# 🛠 My Skills
+
+### 🌐 Programming languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🤖 Data Science & AI/ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-Neural_Networks-blue?style=for-the-badge)
+![KMeans](https://img.shields.io/badge/KMeans-Clustering-lightgrey?style=for-the-badge)
+
+### 💻 Full-Stack Development
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![MEAN Stack](https://img.shields.io/badge/MEAN_Stack-003545?style=for-the-badge&logo=mongodb&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+---
+
+# 🚀 Highlighted Projects
+
+### [Customer Intelligence & Product Recommendation](https://github.com/Sandruez)
+* [cite_start]**Core Logic:** Implemented RFM-based segmentation and real-time suggestions using **KMeans clustering**[cite: 20, 22].
+* [cite_start]**Outcome:** Created a personalized user experience deployed via **Streamlit**[cite: 22].
+
+### [Dog Breed Classifier](https://github.com/Sandruez)
+* [cite_start]**Core Logic:** Developed a **CNN-based** deep learning model leveraging **Transfer Learning** for high-precision image recognition[cite: 25, 26].
+* [cite_start]**Impact:** Demonstrates the ability to handle complex computer vision tasks[cite: 17, 25].
+
+### [Algorithmic Problem Solving (C++ / DSA)](https://github.com/Sandruez)
+* **Core Logic:** Optimized solutions for complex logical challenges focusing on **Time & Space Complexity**.
+* [cite_start]**Impact:** Showcases a strong foundation in **Data Structures** and **Object-Oriented Programming**[cite: 7, 8].
+
+---
+
+### 📊 GitHub Stats
+![Sandruez's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandruez&layout=compact&theme=radical)
+
+[cite_start]*"I'm eager to work on impactful projects, learn from a strong team, and contribute with creativity, curiosity, and code."* [cite: 29]
 
 # 🛠 My Skills
 
