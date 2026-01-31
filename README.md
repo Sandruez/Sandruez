@@ -1,63 +1,45 @@
-# Hi there, I'm Chandraprakash Kahar! 👋
+# 👨‍💻 About me
 
-### Aspiring Data Scientist | AI/ML Engineer | Full-Stack Developer | B.Tech @ NIT Patna
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Sandruez&show_icons=true&theme=radical" width="48%"/>
 
-[cite_start]I am a passionate and results-driven AI/ML enthusiast currently pursuing my B.Tech at NIT Patna[cite: 11, 15]. [cite_start]I specialize in building intelligent, data-driven applications that solve real-world problems, bridging the gap between high-level machine learning models and functional full-stack web solutions[cite: 14, 15].
-
----
-
-## 🚀 About Me
-- [cite_start]🔭 **Current Focus:** AI/ML Intern at **Labmenix Pvt Ltd**, working on scalable machine learning solutions[cite: 15, 33].
-- [cite_start]🎓 **Education:** B.Tech in Civil Engineering from **National Institute of Technology, Patna** (2021-2025)[cite: 35, 36].
-- [cite_start]💡 **Interests:** Computer Vision, MLOps, Neural Networks, and Competitive Programming[cite: 16, 17].
-- ⚡ **Fun Fact:** I love solving complex puzzles through code, whether it's a DSA challenge or a deep learning optimization problem.
+* [cite_start]🎓 I am a **B.Tech Student** at **National Institute of Technology, Patna** (2021-2025)[cite: 11, 35, 36].
+* [cite_start]🚀 Currently working as an **AI/ML Intern** at **Labmenix Pvt Ltd**.
+* [cite_start]💻 Interested in **Machine Learning**, **Data Science**, and **Full-Stack Development**[cite: 10, 14, 15].
+* 🛠️ Strong foundation in **C++, Data Structures, and Algorithms**.
+* [cite_start]📫 Feel free to reach me out at: [![Email](https://img.shields.io/badge/Email-cp497256%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:cp497256@gmail.com) [cite: 2]
+* [cite_start]📄 Check out my [LinkedIn Profile](https://www.linkedin.com/in/chandraprakash-kahar)[cite: 3, 4].
 
 ---
 
-## 🛠️ Technical Toolbox
+# 🛠 My Skills
 
-### **AI & Data Science**
-- [cite_start]**Languages:** Python (Expert), R [cite: 10, 15, 17]
-- [cite_start]**Frameworks:** TensorFlow, Scikit-learn, CNNs, Keras [cite: 17]
-- [cite_start]**Specializations:** Computer Vision, Recommendation Systems, RFM Analysis, Regression Modeling [cite: 20, 22, 23, 25]
+### 🌐 Programming languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### **Software Engineering**
-- [cite_start]**Languages:** C++, Python, JavaScript [cite: 15, 17]
-- [cite_start]**Full-Stack:** MEAN Stack, Django, Flask, REST APIs [cite: 19]
-- [cite_start]**Tools & Cloud:** AWS, Streamlit, Git, Docker (MLOps) [cite: 18, 22]
+### 🤖 Data Science & AI/ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
----
+### 💻 Full-Stack Development
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-## 📂 Highlighted Projects
-
-### [Customer Intelligence & Product Recommendation](Link_to_Repo)
-- **Tech:** Python, KMeans, Streamlit, RFM Segmentation
-- [cite_start]Developed a real-time suggestion engine to enhance user engagement based on behavioral data[cite: 22].
-
-### [Dog Breed Classifier](Link_to_Repo)
-- **Tech:** TensorFlow, CNN, Transfer Learning
-- [cite_start]Built a deep learning model to accurately identify dog breeds from images using advanced computer vision techniques[cite: 25, 26].
-
-### [Heart Disease Prediction](Link_to_Repo)
-- **Tech:** Logistic Regression, Random Forest
-- [cite_start]Developed a predictive model for healthcare analytics with a focus on high accuracy and interpretability[cite: 23].
-
-### [Secure CRM Application](Link_to_Repo)
-- **Tech:** Django, DBMS, Bootstrap
-- [cite_start]Built a secured customer data management platform focusing on OOP principles and secure data handling[cite: 7, 8, 27].
+### ⚙️ Software & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sandruez&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandruez&layout=compact&theme=radical)
+# 🚀 Top Projects
 
----
-
-## 📫 Let's Connect!
-- [cite_start]💼 **LinkedIn:** [linkedin.com/in/chandraprakash-kahar](https://www.linkedin.com/in/chandraprakash-kahar) [cite: 4]
-- [cite_start]📧 **Email:** [chandraprakash.kahar01@gmail.com](mailto:chandraprakash.kahar01@gmail.com) [cite: 2]
-- 🌐 **Portfolio:** [Link to your website/Streamlit app]
-
----
-*"Turning data into insights and ideas into interactive reality."*
+* [cite_start]**Customer Intelligence System:** RFM-based segmentation and real-time suggestions using KMeans[cite: 22].
+* [cite_start]**Dog Breed Classifier:** CNN-based deep learning model using transfer learning[cite: 25, 26].
+* [cite_start]**Heart Disease Prediction:** Built using Logistic Regression and Random Forest[cite: 23].
+* [cite_start]**CRM App:** Django-based secured panel for customer data management[cite: 27].
